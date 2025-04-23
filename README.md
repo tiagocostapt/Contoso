@@ -1,5 +1,10 @@
 # Contoso Traders
 
+https://github.com/tiagocostapt/Contoso/workflows/AZ400%20Demo%20Workflow/badge.svg![image](https://github.com/user-attachments/assets/fff9769e-b8db-44ee-9b31-e6d01f2244db)
+
+
+
+
 ![Logo](./docs/images/logo-1280x640.png)
 
 ##  Architecture 
